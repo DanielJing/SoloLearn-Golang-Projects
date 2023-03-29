@@ -1,1 +1,1 @@
-This repository contains the 6 projects from the ***SoloLearn Golang*** course.
+This repository contains all the 6 projects from the ***SoloLearn Golang*** course.
